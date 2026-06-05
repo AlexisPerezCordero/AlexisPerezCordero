@@ -96,18 +96,18 @@ Actualmente estoy desarrollando proyectos de análisis de datos que abarcan proc
 
 ## 🚀 Proyectos Destacados
 
-### 🚗 Análisis de Congestión Vehicular en Lima
+### 📊 Análisis del Tráfico Aéreo en el Aeropuerto Jorge Chávez (2019–2025)
 
-Proyecto enfocado en identificar patrones de tráfico y congestión vehicular utilizando datos de movilidad urbana.
+Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identificar tendencias, patrones de demanda y cambios en las operaciones aeroportuarias a lo largo del tiempo.
 
 **Objetivos**
-- Identificar los distritos con mayor congestión.
-- Detectar horarios críticos.
-- Analizar tendencias de movilidad.
-- Construir dashboards interactivos.
+- Analizar tendencias del tráfico aéreo entre 2019 y 2025.
+- Comparar tráfico nacional e internacional.
+- Identificar meses y períodos de mayor actividad.
+- Evaluar la recuperación del sector tras la pandemia.
+- Construir dashboards interactivos para apoyar la toma de decisiones.
 
-**Tecnologías:** SQL • Python • Power BI
-
+**Tecnologías:** SQL • Python • Power BI • Google Colab
 ---
 
 ### 🚨 Análisis de Criminalidad y Seguridad Ciudadana
