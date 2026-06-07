@@ -155,9 +155,12 @@ Análisis de indicadores educativos y empleabilidad de egresados universitarios.
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlexisPerezCordero&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexisPerezCordero&theme=github_dark" />
+</p>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisPerezCordero&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexisPerezCordero&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexisPerezCordero&theme=github_dark" />
 </p>
 
 ---
