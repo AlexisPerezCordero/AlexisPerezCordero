@@ -112,7 +112,9 @@ Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identif
 
 <p align="center">
   <a href="https://github.com/AlexisPerezCordero/Analisis-Trafico-Aereo-Jorge-Chavez">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisPerezCordero&repo=Analisis-Trafico-Aereo-Jorge-Chavez&theme=github_dark" />
+    <img src="https://raw.githubusercontent.com/AlexisPerezCordero/AlexisPerezCordero/main/Porrtada_Analisis_Aeropuerto.png" 
+         alt="Análisis de Tráfico Aéreo Jorge Chávez"
+         width="900">
   </a>
 </p>
 
