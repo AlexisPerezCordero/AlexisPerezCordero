@@ -129,8 +129,6 @@ Estudio de denuncias y delitos registrados en distintas regiones del Perú.
 - Comparar departamentos y distritos.
 - Visualizar indicadores de seguridad.
 
-**Tecnologías:** SQL • Python • Power BI
-
 ---
 
 ### 📈 Análisis de Inflación y Costo de Vida
@@ -143,7 +141,6 @@ Evaluación de indicadores económicos para comprender la evolución de precios 
 - Comparar periodos y regiones.
 - Generar reportes ejecutivos.
 
-**Tecnologías:** Python • Excel • Power BI
 
 ---
 
@@ -157,7 +154,7 @@ Análisis de indicadores educativos y empleabilidad de egresados universitarios.
 - Evaluar indicadores educativos.
 - Generar dashboards interactivos.
 
-**Tecnologías:** SQL • Power BI
+
 
 ---
 
