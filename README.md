@@ -107,7 +107,6 @@ Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identif
 - Evaluar la recuperación del sector tras la pandemia.
 - Construir dashboards interactivos para apoyar la toma de decisiones.
 
-**Tecnologías:** SQL • Python • Power BI • Google Colab
 ---
 
 <p align="center">
