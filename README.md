@@ -110,6 +110,13 @@ Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identif
 **Tecnologías:** SQL • Python • Power BI • Google Colab
 ---
 
+<p align="center">
+  <a href="https://github.com/AlexisPerezCordero/Analisis-Trafico-Aereo-Jorge-Chavez">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisPerezCordero&repo=Analisis-Trafico-Aereo-Jorge-Chavez&theme=github_dark" />
+  </a>
+</p>
+
+---
 ### 🚨 Análisis de Criminalidad y Seguridad Ciudadana
 
 Estudio de denuncias y delitos registrados en distintas regiones del Perú.
