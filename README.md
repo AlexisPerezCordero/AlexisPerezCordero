@@ -96,6 +96,28 @@ Actualmente estoy desarrollando proyectos de análisis de datos que abarcan proc
 
 ## 🚀 Proyectos Destacados
 
+### 📊 Dashboard Comercial de Ventas
+
+Proyecto de Business Intelligence desarrollado con **Power BI**, **Excel** y **Power Query** para transformar datos comerciales en información estratégica mediante indicadores y dashboards interactivos.
+
+**Objetivos**
+
+- Limpiar y transformar datos utilizando Excel y Power Query.
+- Diseñar un dashboard interactivo con KPIs comerciales.
+- Analizar tendencias de ventas por región, categoría, subcategoría y segmento.
+- Identificar oportunidades de mejora mediante visualizaciones dinámicas.
+- Facilitar la toma de decisiones con indicadores comerciales.
+
+---
+
+<p align="center">
+  <a href="https://github.com/AlexisPerezCordero/Dashboard-Comercial-Ventas">
+    <img src="https://raw.githubusercontent.com/AlexisPerezCordero/AlexisPerezCordero/main/Fondo-Dashboard-Comercial-Ventas.png"
+         alt="Dashboard Comercial de Ventas"
+         width="900">
+  </a>
+</p>
+---
 ### 📊 Análisis del Tráfico Aéreo en el Aeropuerto Jorge Chávez (2019–2025)
 
 Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identificar tendencias, patrones de demanda y cambios en las operaciones aeroportuarias a lo largo del tiempo.
@@ -116,7 +138,6 @@ Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identif
          width="900">
   </a>
 </p>
-
 ---
 ### 🚨 Análisis de Criminalidad y Seguridad Ciudadana
 
