@@ -117,7 +117,9 @@ Proyecto de Business Intelligence desarrollado con **Power BI**, **Excel** y **P
          width="900">
   </a>
 </p>
+
 ---
+
 ### 📊 Análisis del Tráfico Aéreo en el Aeropuerto Jorge Chávez (2019–2025)
 
 Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identificar tendencias, patrones de demanda y cambios en las operaciones aeroportuarias a lo largo del tiempo.
@@ -138,7 +140,9 @@ Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identif
          width="900">
   </a>
 </p>
+
 ---
+
 ### 🚨 Análisis de Criminalidad y Seguridad Ciudadana
 
 Estudio de denuncias y delitos registrados en distintas regiones del Perú.
