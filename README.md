@@ -143,44 +143,6 @@ Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identif
 
 ---
 
-### 🚨 Análisis de Criminalidad y Seguridad Ciudadana
-
-Estudio de denuncias y delitos registrados en distintas regiones del Perú.
-
-**Objetivos**
-- Identificar zonas con mayor incidencia delictiva.
-- Analizar tendencias por año.
-- Comparar departamentos y distritos.
-- Visualizar indicadores de seguridad.
-
----
-
-### 📈 Análisis de Inflación y Costo de Vida
-
-Evaluación de indicadores económicos para comprender la evolución de precios y el impacto en la población.
-
-**Objetivos**
-- Analizar la inflación por categorías.
-- Detectar tendencias económicas.
-- Comparar periodos y regiones.
-- Generar reportes ejecutivos.
-
-
----
-
-### 🎓 Educación Superior y Empleabilidad en el Perú
-
-Análisis de indicadores educativos y empleabilidad de egresados universitarios.
-
-**Objetivos**
-- Comparar universidades.
-- Analizar inserción laboral.
-- Evaluar indicadores educativos.
-- Generar dashboards interactivos.
-
-
-
----
 
 ## 📊 Estadísticas de GitHub
 
