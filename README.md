@@ -4,7 +4,6 @@
 
 </div>
 
-
 <p align="center">
   <a href="https://github.com/AlexisPerezCordero">
     <img src="https://komarev.com/ghpvc/?username=AlexisPerezCordero&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Visitas al perfil"/>
@@ -15,18 +14,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Analista+de+Datos;SQL+%7C+Python+%7C+Power+BI;Business+Intelligence;Visualizacion+de+Datos;Transformando+Datos+en+Decisiones" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Desarrollador+Web+%26+Analista+de+Datos;HTML+%7C+CSS+%7C+JS+%7C+SQL+%7C+Python;Business+Intelligence;Power+BI+%7C+Visualizaci%C3%B3n+de+Datos;Transformando+Datos+en+Decisiones" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas especializado en análisis de datos, inteligencia de negocios y visualización de información.
+Soy egresado de Ingeniería de Sistemas especializado en desarrollo web y análisis de datos, inteligencia de negocios y visualización de información.
 
-Me apasiona convertir datos en información valiosa mediante el uso de SQL, Python, Excel y Power BI, contribuyendo a la resolución de problemas y a la toma de decisiones estratégicas.
+Me apasiona construir soluciones web con HTML, CSS y JavaScript, así como convertir datos en información valiosa mediante SQL, Python, Excel y Power BI, contribuyendo a la resolución de problemas y a la toma de decisiones estratégicas.
 
-Actualmente estoy desarrollando proyectos de análisis de datos que abarcan procesos de extracción, limpieza, transformación, análisis y visualización de información, aplicando buenas prácticas y herramientas utilizadas en entornos profesionales.
+Actualmente estoy desarrollando proyectos que abarcan desde la creación de páginas y plataformas web hasta procesos de extracción, limpieza, transformación, análisis y visualización de datos, aplicando buenas prácticas y herramientas utilizadas en entornos profesionales.
 
 ---
 
@@ -35,6 +34,8 @@ Actualmente estoy desarrollando proyectos de análisis de datos que abarcan proc
 <table>
 <tr>
 <td width="65%" valign="top">
+
+💻 Desarrollo web con HTML, CSS y JavaScript.
 
 📊 Análisis y visualización de datos.
 
@@ -46,8 +47,7 @@ Actualmente estoy desarrollando proyectos de análisis de datos que abarcan proc
 
 🔄 Limpieza, transformación y preparación de datos.
 
-📚 Aprendiendo continuamente sobre Business Intelligence, ETL y análisis de datos.
-
+📚 Aprendiendo continuamente sobre desarrollo web, Business Intelligence, ETL y análisis de datos.
 
 </td>
 
@@ -61,6 +61,13 @@ Actualmente estoy desarrollando proyectos de análisis de datos que abarcan proc
 ---
 
 ## 🛠 Tecnologías y Herramientas
+
+### 💻 Desarrollo Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 📊 Análisis de Datos
 
@@ -143,7 +150,6 @@ Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identif
 
 ---
 
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -179,11 +185,10 @@ Proyecto enfocado en explorar y visualizar datos de tráfico aéreo para identif
 
 ## 🎯 Objetivo Profesional
 
-Mi objetivo es desarrollarme como Analista de Datos, aplicando herramientas como SQL, Python, Excel y Power BI para transformar datos en información que ayude a comprender situaciones, resolver problemas y apoyar la toma de decisiones.
+Mi objetivo es desarrollarme como profesional en Desarrollo Web y Análisis de Datos, aplicando herramientas como HTML, CSS, JavaScript, SQL, Python, Excel y Power BI para construir soluciones tecnológicas y transformar datos en información que ayude a comprender situaciones, resolver problemas y apoyar la toma de decisiones.
 
 Me considero una persona con muchas ganas de seguir aprendiendo y mejorando cada día. Disfruto adquirir nuevos conocimientos, enfrentar retos que me permitan crecer profesionalmente y aprender de los errores, ya que los veo como oportunidades para mejorar y fortalecer mis habilidades. Busco seguir construyendo experiencia a través de proyectos reales, manteniendo siempre una actitud de aprendizaje continuo, curiosidad y compromiso con mi desarrollo personal y profesional.
 
 ---
 
-⭐ Gracias por visitar mi perfil. Siempre estoy abierto a aprender, colaborar y participar en nuevos proyectos relacionados con Análisis de Datos e Inteligencia de Negocios.
-```
+⭐ Gracias por visitar mi perfil. Siempre estoy abierto a aprender, colaborar y participar en nuevos proyectos relacionados con Desarrollo Web, Análisis de Datos e Inteligencia de Negocios.
