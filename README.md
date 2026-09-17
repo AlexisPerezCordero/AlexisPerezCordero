@@ -29,12 +29,12 @@ Me interesa continuar desarrollándome profesionalmente en el ámbito tecnológi
 
 
 ---
-
 ## 🚀 Enfoque Actual
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="65%" valign="top">
+
+<td width="58%" align="left" valign="middle">
 
 🔍 **Quality Assurance & Software Testing**
 
@@ -54,8 +54,8 @@ Me interesa continuar desarrollándome profesionalmente en el ámbito tecnológi
 
 </td>
 
-<td width="35%" align="center">
-<img src="https://raw.githubusercontent.com/AlexisPerezCordero/AlexisPerezCordero/main/Club%20De%20Conquistadores.gif" width="250px">
+<td width="42%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/AlexisPerezCordero/AlexisPerezCordero/main/Club%20De%20Conquistadores.gif" width="440px">
 </td>
 
 </tr>
